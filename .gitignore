@@ -1,0 +1,11 @@
+# Pastas de compilação PyInstaller / Python
+build/
+dist/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Binários e atalhos locais (Instalador disponível na aba Releases)
+*.exe
+*.lnk
+*.log
